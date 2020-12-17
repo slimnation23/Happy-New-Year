@@ -81,7 +81,7 @@ section img#santa {
     left: 0;
     width: 200%;
     height: 266px;
-    background: url(/img/tree.png);
+    background: url(../img/tree.png);
     background-position-y: 266px;
     z-index: 10;
 }
