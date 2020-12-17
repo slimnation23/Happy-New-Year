@@ -104,9 +104,9 @@ section #text {
     section img#cloud1 {
         max-width: 400px;
     }
-    #tree {
+    /* #tree {
         height: 200px;
-    }
+    } */
 }
 
 @media (max-width: 880px) {
